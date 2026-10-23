@@ -1,0 +1,9 @@
+BEFORE/AFTER ANALYSIS
+
+BEFORE — baseline hypothesis to confirm: tasks may be scattered; urgency may dominate; estimates and breaks may not be visible; completion may be recalled from memory.
+
+AFTER — AI-assisted workflow: one tracker stores tasks, deadlines, estimates and status; identical prompts compare three AI tools; final schedule includes blocks and buffer; daily log supports review.
+
+Do not claim measured improvement until tracking is complete. Add the usual method, baseline planning time, actual completed tasks, completion rate, missed-task reasons and reflection.
+
+Completion rate = completed tasks / total tasks × 100.

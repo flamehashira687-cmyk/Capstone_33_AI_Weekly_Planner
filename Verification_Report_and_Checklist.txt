@@ -1,0 +1,37 @@
+CAPSTONE 33 — VERIFICATION REPORT
+Evidence status: prepared framework. Actual outputs and actual completion results must be collected; do not present predicted outputs or blank metrics as observed results.
+
+Risk: Hallucinated details
+Why: AI may invent deadlines or assume calendar availability
+Control: Use supplied deadlines; label assumptions; check calendar manually
+
+Risk: Overloaded schedule
+Why: AI may pack every hour and omit fatigue
+Control: Keep breaks, meals, buffer and realistic evening limits
+
+Risk: Privacy
+Why: Task lists may include personal or college information
+Control: Remove IDs, private messages and sensitive information before prompting
+
+Risk: Automation errors
+Why: Calendar imports may duplicate or shift events
+Control: Preview events, verify time zone and test one event first
+
+Risk: Over-reliance
+Why: AI may prioritise incorrectly when context is missing
+Control: User reviews priorities and can override suggestions
+
+Risk: Measurement bias
+Why: Memory-based tracking can exaggerate completion
+Control: Update the log daily and count only completed outcomes
+
+Checklist:
+- Confirm actual deadlines
+- Add fixed commitments and commute
+- Check overlapping blocks
+- Protect meals, breaks and sleep
+- Flag work that does not fit
+- Add buffer where possible
+- Preview calendar imports
+- Log completion daily
+- Calculate completion from recorded data only

@@ -1,0 +1,13 @@
+CAPSTONE 33 — FINAL DEMO SCRIPT (about 60–90 seconds)
+
+Hello, this is my AI Weekly Planner and Task Prioritiser project. The problem is that academic, project and personal tasks can become scattered, making it difficult to choose priorities and estimate realistic work time.
+
+I created a 25-task backlog with suggested deadlines, effort estimates, categories, and priority reasons. The workbook has four main areas: Task Tracker, Final Weekly Plan, Completion Log, and Weekly Metrics. The schedule uses time-blocking, protects breaks and dinner, and includes a weekend catch-up buffer.
+
+I also prepared prompts for task cleanup, Eisenhower-style prioritisation, schedule creation, adversarial checking, and weekly review. The three-tool comparison worksheet uses the same weighted rubric for ChatGPT, Gemini, and Claude. Actual scores must be entered only after running the same prompt in each tool and saving the real outputs.
+
+The verification checklist checks for overlapping blocks, unrealistic durations, missing travel time, privacy risks, automation mistakes, and over-reliance on AI. The plan can be imported to a calendar using the included ICS file, but the imported events must be checked manually.
+
+Finally, the completion log records planned versus completed tasks and actual minutes. The completion rate is calculated from real entries only. The proposed tracking week is 26 October to 1 November 2026, so no completion percentage is claimed before the week is tracked.
+
+The main lesson is that AI can support planning, but the user must verify deadlines, select a feasible plan, and review results honestly. Thank you.

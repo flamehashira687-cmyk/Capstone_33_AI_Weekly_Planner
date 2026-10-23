@@ -1,0 +1,15 @@
+Prompt 1 — task cleanup
+Act as a realistic weekly planning assistant. Clean this task list into a table with task, deliverable, deadline, estimated effort, dependency, priority and uncertainty. Do not invent deadlines; mark missing details as questions. Ask for fixed commitments before finalising.
+
+Prompt 2 — Eisenhower
+Classify tasks as urgent/important, important/not urgent, urgent/not important, or neither. Explain briefly. Preserve every task and flag deadline conflicts.
+
+Prompt 3 — time-blocking
+Create a weekly plan from these tasks and fixed commitments. Include commute, meals, breaks, sleep and 20% buffer. Never double-book. Put high-focus tasks in realistic blocks. If everything does not fit, identify what to defer.
+
+Prompt 4 — adversarial audit
+Audit this plan for overlapping events, impossible durations, missing travel time, context switching, inadequate breaks and deadline risk. Return issue, severity and correction. Do not claim calendar availability you cannot verify.
+
+Prompt 5 — weekly review
+Compare planned tasks with this completion log. Calculate completion rate only from supplied data, identify patterns without blame, and recommend at most three changes. Mark missing data as unknown.
+

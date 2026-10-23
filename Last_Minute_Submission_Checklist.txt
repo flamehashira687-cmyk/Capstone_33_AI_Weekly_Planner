@@ -1,0 +1,26 @@
+CAPSTONE 33 — LAST-MINUTE SUBMISSION CHECKLIST
+
+Included in this package:
+- Main report (DOCX) and quick report (PDF)
+- 25-task CSV and editable tracker workbook
+- Final weekly plan, completion log and metric formulas
+- Prompt library, verification checklist, before/after analysis
+- One-page weekly planner template
+- Three candidate plan approaches for human comparison
+- Three-tool scoring worksheet
+- Calendar import file (.ics)
+- Final demo script
+
+Important integrity notes:
+1. The three candidate plans are planning alternatives, not falsely attributed ChatGPT/Gemini/Claude outputs.
+2. The comparison worksheet is blank until actual outputs are run and scored.
+3. The proposed tracking week is 26 Oct–1 Nov 2026. Since it has not yet happened at package creation time, no actual completion rate is claimed.
+4. The .ics file is an import-ready draft only. Import into a test calendar or inspect events before relying on it; it does not prove a Google Calendar/Todoist import occurred.
+5. Confirm the actual college deadlines and fixed commitments before submission.
+
+Fastest honest evidence completion:
+- Run the prompt in ChatGPT, Gemini and Claude (free tiers if available).
+- Save each actual response as a text file or screenshot in Evidence/.
+- Fill the 3-Tool Comparison worksheet using the rubric.
+- Import the ICS only if permitted, then capture the resulting calendar view.
+- If the tracking week has not occurred, state that completion tracking is scheduled/pending rather than inventing results.

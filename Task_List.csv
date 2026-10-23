@@ -1,0 +1,26 @@
+﻿ID,Task,Suggested Day,Deadline,Priority,Effort (min),Category,Reason
+1,Finish AI Tools assignment brief,Mon,2026-10-26,High,90,Academic,Deadline-driven
+2,Review Discrete Mathematics notes,Mon,2026-10-26,Medium,45,Academic,Study
+3,Complete Python functions practice,Mon,2026-10-26,High,60,Skill-building,High value
+4,Check college announcements and LMS,Mon,2026-10-26,Low,15,Admin,Quick task
+5,Prepare group-project status update,Tue,2026-10-27,High,45,Project,Dependency
+6,Revise AI foundations topic,Tue,2026-10-27,Medium,45,Academic,Study
+7,Solve 5 Python problems,Tue,2026-10-27,High,60,Skill-building,Practice
+8,Organise project files and backups,Tue,2026-10-27,Low,20,Admin,Quick task
+9,Draft Responsible AI case analysis,Wed,2026-10-28,High,75,Academic,Deadline-driven
+10,Review SQL basics,Wed,2026-10-28,Medium,45,Skill-building,Skill
+11,Reply to team messages,Wed,2026-10-28,Low,15,Project,Quick task
+12,Prepare presentation outline,Thu,2026-10-29,High,60,Academic,Deadline-driven
+13,Practice Python debugging,Thu,2026-10-29,Medium,45,Skill-building,Practice
+14,Review weekly lecture notes,Thu,2026-10-29,Medium,30,Academic,Study
+15,Update GitHub README,Fri,2026-10-30,Medium,45,Project,Career
+16,Complete pending quiz or worksheet,Fri,2026-10-30,High,45,Academic,Deadline-driven
+17,Plan weekend study blocks,Fri,2026-10-30,Low,15,Planning,Quick task
+18,Work on Jarvix project feature,Sat,2026-10-31,High,90,Project,Deep work
+19,Practice 8 Python problems,Sat,2026-10-31,High,60,Skill-building,Practice
+20,Review Japanese hiragana and vocabulary,Sat,2026-10-31,Medium,30,Language,Habit
+21,Catch up on unfinished academic work,Sun,2026-11-01,High,60,Academic,Buffer
+22,Weekly review and next-week planning,Sun,2026-11-01,Medium,30,Planning,Review
+23,Back up laptop project folders,Sun,2026-11-01,Low,20,Admin,Maintenance
+24,Read one AI/ML concept and write summary,Sun,2026-11-01,Medium,45,Skill-building,Learning
+25,Prepare Monday bag and checklist,Sun,2026-11-01,Low,15,Personal admin,Quick task
